@@ -1,1 +1,1 @@
-Modelo de uma tela de login criado durante o curso de Java-Avançado da Fundação Bradesco
+Modelo de uma tela de login criado durante o curso de Java-Avançado
